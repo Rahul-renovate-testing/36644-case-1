@@ -1,5 +1,5 @@
 {
   "extends": [
-    "github>Rahul-renovate-testing/renovate-config#1.2.0"
+    "github>Rahul-renovate-testing/renovate-config#1.3.0"
   ]
 }
