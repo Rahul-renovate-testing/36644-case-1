@@ -1,5 +1,5 @@
 {
   "extends": [
-    "local>Rahul-renovate-testing/renovate-config#1.0.0"
+    "local>Rahul-renovate-testing/renovate-config#1.2.0"
   ]
 }
